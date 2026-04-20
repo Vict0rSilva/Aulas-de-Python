@@ -1,6 +1,5 @@
-# 📘 Aprendendo Python do Zero
+# 📘 Estudando Python do Zero
 
-<!-- 🔧 Altere o nome do usuário e repositório abaixo, se necessário -->
 ![GitHub repo size](https://img.shields.io/github/repo-size/Vict0rSilva/Aulas-de-Python)
 ![GitHub last commit](https://img.shields.io/github/last-commit/Vict0rSilva/Aulas-de-Python)
 ![GitHub language](https://img.shields.io/github/languages/top/Vict0rSilva/Aulas-de-Python)
@@ -11,8 +10,6 @@
 ## 👋 Sobre
 Olá! Este repositório é um mini guia onde estou documentando minha jornada de aprendizado em Python.  
 Aqui registro minha evolução com lógica de programação, algoritmos e estruturas básicas.
-
-<!-- ✏️ Você pode personalizar esse texto acima -->
 
 ---
 
@@ -25,14 +22,10 @@ Desenvolver habilidades sólidas em programação, praticando constantemente e o
 - UNINTER (faculdade)
 - [Curso em Vídeo](https://youtube.com/playlist?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6&si=HlmN9RWElE0iSWRE)
 
-<!-- ➕ Adicione mais fontes aqui se quiser -->
-
 ---
 
 ## 🛠️ Ferramentas
 - IDE utilizada: **PyCharm**
-
-<!-- ➕ Pode adicionar: Git, VS Code, etc -->
 
 ---
 
@@ -54,15 +47,12 @@ Os arquivos estão organizados da seguinte forma:
 📁 Pasta principal de estudos:  
 ➡️ Aula paycharm/
 
-<!-- 🔧 Se mudar o nome da pasta, altere aqui -->
-
 Dentro dessa pasta você encontrará os arquivos separados conforme o andamento das aulas.
 
 ---
 
 ## 📈 Progresso
 
-<!-- 🔧 Troque o username se necessário -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Vict0rSilva&show_icons=true&theme=tokyonight" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vict0rSilva&layout=compact&theme=tokyonight" height="150"/>
@@ -77,7 +67,7 @@ Este repositório será atualizado constantemente conforme avanço nos estudos.
 ---
 
 ## 📌 Próximos Passos
-<!-- ✏️ Use como checklist -->
+<!-- ✏️ Usar como checklist -->
 - [ ] Finalizar exercícios básicos
 - [ ] Praticar estruturas de repetição
 - [ ] Iniciar projetos simples

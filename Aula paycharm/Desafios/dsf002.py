@@ -1,0 +1,18 @@
+print(f'='*10,'Desafio 002', '='*10)
+print('Descubra o tipo de dado que esta sendo digitado')
+
+dado = input('Digite algo: ')
+
+print(f'O tipo primitivo de {dado} é {type(dado)}')
+print(f"{dado} é numérico? {dado.isnumeric()}")
+print(f"{dado} é dígito? {dado.isdigit()}")
+print(f"{dado} é decimal? {dado.isdecimal()}")
+print(f"{dado} é alfabético? {dado.isalpha()}")
+print(f"{dado} é alfanumérico? {dado.isalnum()}")
+print(f"{dado} está em minúsculas? {dado.islower()}")
+print(f"{dado} está em maiúsculas? {dado.isupper()}")
+print(f"{dado} está em formato de título? {dado.istitle()}")
+print(f"{dado} contém apenas espaços? {dado.isspace()}")
+print(f"{dado} é um identificador válido? {dado.isidentifier()}")
+print(f"{dado} é imprimível? {dado.isprintable()}")
+print(f"{dado} contém apenas ASCII? {dado.isascii()}")

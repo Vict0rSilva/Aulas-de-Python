@@ -23,7 +23,7 @@ Desenvolver habilidades sólidas em programação, praticando constantemente e o
 
 ## 📚 Onde estou aprendendo
 - UNINTER (faculdade)
-- Curso em Vídeo
+- [Curso em Vídeo](https://youtube.com/playlist?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6&si=HlmN9RWElE0iSWRE)
 
 <!-- ➕ Adicione mais fontes aqui se quiser -->
 
@@ -63,9 +63,10 @@ Dentro dessa pasta você encontrará os arquivos separados conforme o andamento 
 ## 📈 Progresso
 
 <!-- 🔧 Troque o username se necessário -->
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Vict0rSilva&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vict0rSilva&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vict0rSilva&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vict0rSilva&layout=compact&theme=tokyonight" height="150"/>
+</p>
 
 
 ---

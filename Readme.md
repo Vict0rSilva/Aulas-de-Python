@@ -52,8 +52,8 @@ Dentro dessa pasta você encontrará os arquivos separados conforme o andamento 
 ---
 
 ## 📈 Progresso e assuntos estudados no momento
+> 📌 Ao finalizar um dos assuntos da lista **"🚧 Próximos assuntos para estudar"**, ele será removido dessa seção e adicionado à lista **"📈 Progresso e assuntos estudados no momento"**.
 
-<!-- ✏️ Usar como checklist -->
 - [x] Entrada e saída de dados  
 - [x] Tipos de dados  
 - [x] Conversão de tipos  
@@ -65,7 +65,23 @@ Dentro dessa pasta você encontrará os arquivos separados conforme o andamento 
 - [x] Fluxo de execução  
 - [x] Expressões booleanas
 
+## 🚧 Próximos assuntos para estudar
 
+- [ ] Estruturas de repetição (for e while)  
+- [ ] Listas (arrays)  
+- [ ] Tuplas  
+- [ ] Dicionários  
+- [ ] Manipulação de strings  
+- [ ] Funções (def)  
+- [ ] Escopo de variáveis  
+- [ ] Tratamento de erros (try/except)  
+- [ ] Manipulação de arquivos (leitura e escrita)  
+- [ ] Navegação em pastas (diretórios)  
+- [ ] Lógica de filtragem de dados  
+- [ ] Modularização de código  
+- [ ] Entrada de dados mais robusta (validação)  
+- [ ] Interação com o sistema operacional  
+- [ ] Execução de scripts com 1 clique (empacotamento)  
 ---
 
 ## 🔄 Atualizações

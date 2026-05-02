@@ -51,12 +51,19 @@ Dentro dessa pasta você encontrará os arquivos separados conforme o andamento 
 
 ---
 
-## 📈 Progresso
+## 📈 Progresso e assuntos estudados no momento
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vict0rSilva&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vict0rSilva&layout=compact&theme=tokyonight" height="150"/>
-</p>
+<!-- ✏️ Usar como checklist -->
+- [x] Entrada e saída de dados  
+- [x] Tipos de dados  
+- [x] Conversão de tipos  
+- [x] Operadores matemáticos  
+- [x] Operadores de comparação  
+- [x] Estruturas condicionais  
+- [x] Condições compostas  
+- [x] Lógica matemática básica  
+- [x] Fluxo de execução  
+- [x] Expressões booleanas
 
 
 ---

@@ -90,8 +90,8 @@ Este repositório será atualizado constantemente conforme avanço nos estudos.
 ---
 
 ## 📌 Próximos Passos
-<!-- ✏️ Usar como checklist -->
-- [ ] Finalizar exercícios básicos
+
+- [x] Finalizar exercícios básicos
 - [ ] Praticar estruturas de repetição
 - [ ] Iniciar projetos simples
 - [ ] Aprender funções

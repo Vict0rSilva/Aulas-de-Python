@@ -20,7 +20,8 @@ Desenvolver habilidades sólidas em programação, praticando constantemente e o
 
 ## 📚 Onde estou aprendendo
 - UNINTER (faculdade)
-- [Curso em Vídeo](https://youtube.com/playlist?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6&si=HlmN9RWElE0iSWRE)
+- [Curso em Vídeo](https://youtube.com/playlist?list=PLIbmlYZ19yU4tmcsZnvBS038l-DDlNiQg&si=ENcO24LIE8pKTPKl)
+- [Documentação](https://docs.python.org/3/)
 
 ---
 
@@ -50,7 +51,6 @@ Os arquivos estão organizados da seguinte forma:
 Dentro dessa pasta você encontrará os arquivos separados conforme o andamento das aulas.
 
 ---
-
 ## 📈 Progresso e assuntos estudados no momento
 > 📌 Ao finalizar um dos assuntos da lista **"🚧 Próximos assuntos para estudar"**, ele será removido dessa seção e adicionado à lista **"📈 Progresso e assuntos estudados no momento"**.
 
@@ -64,10 +64,10 @@ Dentro dessa pasta você encontrará os arquivos separados conforme o andamento 
 - [x] Lógica matemática básica  
 - [x] Fluxo de execução  
 - [x] Expressões booleanas
+- [x] Estruturas de repetição (for e while)  
 
 ## 🚧 Próximos assuntos para estudar
 
-- [ ] Estruturas de repetição (for e while)  
 - [ ] Listas (arrays)  
 - [ ] Tuplas  
 - [ ] Dicionários  
@@ -88,15 +88,13 @@ Dentro dessa pasta você encontrará os arquivos separados conforme o andamento 
 Este repositório será atualizado constantemente conforme avanço nos estudos.
 
 ---
-
 ## 📌 Próximos Passos
 
 - [x] Finalizar exercícios básicos
-- [ ] Praticar estruturas de repetição
+- [x] Praticar estruturas de repetição
 - [ ] Iniciar projetos simples
 - [ ] Aprender funções
 - [ ] Trabalhar com listas
 
 ---
-
 💡 *Aprendendo um pouco todos os dias.*
